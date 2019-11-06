@@ -1,0 +1,18 @@
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\bin\Debug\Patch.exe.config
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\bin\Debug\Patch.exe
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\bin\Debug\Patch.pdb
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\obj\Debug\Patch.csprojResolveAssemblyReference.cache
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\obj\Debug\Patch.Form.resources
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\obj\Debug\Patch.Properties.Resources.resources
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\obj\Debug\Patch.csproj.GenerateResource.Cache
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\obj\Debug\Patch.exe
+c:\users\stage-auto3\documents\visual studio 2015\Projects\Patch\Patch\obj\Debug\Patch.pdb
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\bin\Debug\Patch.exe.config
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\obj\Debug\Patch.exe
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\obj\Debug\Patch.pdb
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\bin\Debug\Patch.exe
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\bin\Debug\Patch.pdb
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\obj\Debug\Patch.csprojResolveAssemblyReference.cache
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\obj\Debug\Patch.Form.resources
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\obj\Debug\Patch.Properties.Resources.resources
+D:\Documenten\Huiswerk\_OUD\Leerjaar 2\Super Serieuze Portofolio\Patch\Patch\obj\Debug\Patch.csproj.GenerateResource.Cache
