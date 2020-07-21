@@ -1,0 +1,36 @@
+<div class="spinner-border text-primary" role="status" *ngIf="isLoading">
+    <span class="sr-only">Loading...</span>
+</div>
+
+<div *ngIf="!isLoading">
+    <form *ngIf="filter" class="form-inline" (ngSubmit)="setFilter(filterForm.value)" #filterForm="ngForm">
+        <div class="form-group mx-sm-3 mb-2">
+            <label for="inputPassword2" class="sr-only">Password</label>
+            <select ngModel name="interessenaam" id="inputState" class="form-control">
+                <option selected>Selecteer interesse</option>
+                <option *ngFor="let interesse of interesses">{{ interesse.naam }}</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Filter</button>
+    </form>
+    <div class="row">
+        <div class="col-md-6 col-lg-4" style="padding:20px;"
+            *ngFor="let activiteit of (activiteiten ? activiteiten.slice(0,amount): [])">
+            <div class="card animated fadeIn">
+                <div class="card-bg" [ngStyle]="{background: 'url(' + activiteit.afbeeldingURL + ')'}">
+                </div>
+                <div class="card-body">
+                    <div class="title">
+                        <h5 class="card-title">{{ activiteit.titel | uppercase }}</h5>
+                    </div>
+                    <p class="card-text card-datum">{{ activiteit.beginTijdstip | date:'EEEE dd MMMM yyyy HH:mm' }}</p>
+                    <p class="card-text">{{ activiteit.omschrijving | summary }}</p>
+                    <a [routerLink]="['/activiteiten', activiteit.id]" class="btn btn-primary">Lees meer</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-12" style="padding:20px;">
+            <a [routerLink]="['/activiteiten']">Meer weergeven</a>
+        </div>
+    </div>
+</div>
